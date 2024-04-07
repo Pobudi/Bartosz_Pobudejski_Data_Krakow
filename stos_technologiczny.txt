@@ -1,0 +1,6 @@
+python==3.7.13
+pandas==8.0.18
+numpy==1.21.5
+matplotlib==3.5.2
+mysql-connector-python==8.0.18
+scikit-learn==1.0.2
